@@ -1,0 +1,2 @@
+# News-Group-Classifier
+Designed a Text Classifier which classifies news headlines/story into NEWS groups like rec.sport.basketball,sci.electronics etc as mentioned in the dataset. For this the famous min_newsgroup dataset from UCI Repository was used for training and testing purposes. Models like Logistic Regression, Random Forest Classifier and Naive Bayes(Mutinomial and Gaussian) were applied and its performance against each was tested via the Classification Report and Confusion Matrix.. 
